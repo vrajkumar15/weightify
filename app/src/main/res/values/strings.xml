@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WEIGHTIFY</string>
+
+    <string-array name="meal_array">
+        <item>Breakfast</item>
+        <item>Morning Snack</item>
+        <item>Lunch</item>
+        <item>Afternoon Snack</item>
+        <item>Dinner</item>
+        <item>Dinner Snack</item>
+    </string-array>
+</resources>
