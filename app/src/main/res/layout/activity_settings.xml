@@ -24,6 +24,7 @@
         android:layout_height="wrap_content"
         android:text="Reset Times"
         android:id="@+id/btnReset"
+        android:onClick="resetValues"
         android:layout_below="@+id/tvDay"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="49dp" />
