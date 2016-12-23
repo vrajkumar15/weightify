@@ -1,2 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/Raj/.gradle/caches/modules-2/files-2.1/nl.qbusict/cupboard/2.2.0/dc6f78fc951c5bdeec92c14c6dd6adc9ce6195d0/cupboard-2.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dc6f78fc951c5bdeec92c14c6dd6adc9ce6195d0">
+        <dex dex="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/pre-dexed/debug/cupboard-2.2.0_4701109821250aed95d33db85bf16d8616de5a97.jar" />
+    </item>
+    <item
+        jar="/Users/Raj/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_d841151ea5383b9660f71e4b34e668566b092b47.jar" />
+    </item>
+    <item
+        jar="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_ebebab3e3548d3db53c41fc26bd9232b80a37794.jar" />
+    </item>
+    <item
+        jar="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_5bff7e8b740c984da5848c27f5af680dff9f6968.jar" />
+    </item>
+    <item
+        jar="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e1ddf8a8b26e305fe67f19626a1416cb700954d2">
+        <dex dex="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b4d5aa08e0db965dd838ceb737cd2d6196f4fc62.jar" />
+    </item>
+    <item
+        jar="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_00ed32f56b761263dbc4cf0c1b3d779ae4a1f559.jar" />
+    </item>
+    <item
+        jar="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_7d6c3966faeead319c7855fa2fb3e20f751f9806.jar" />
+    </item>
+    <item
+        jar="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_c0d3089c1f2f0d581cb6a5b4591b43861b2b512a.jar" />
+    </item>
+    <item
+        jar="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a7af3d78e1486b70eaec09c4ad1d99e0dd348a2a">
+        <dex dex="/Users/Raj/AndroidStudioProjects/weightify/app/build/intermediates/pre-dexed/debug/instant-run_7ed4417e2c0b149b8d1cb0b025a83ba7b73b3583.jar" />
+    </item>
+
+</items>

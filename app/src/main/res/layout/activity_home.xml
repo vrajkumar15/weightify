@@ -7,6 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/wallpaper"
     tools:context="com.weightify.weightify.HomeActivity">
 
     <TextView
@@ -68,4 +69,30 @@
         android:id="@+id/tvDay"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Notify"
+        android:id="@+id/btnNotify"
+        android:onClick="setNotification"
+
+        android:layout_alignTop="@+id/btnRemove"
+        android:layout_toLeftOf="@+id/btnSettings"
+        android:layout_toStartOf="@+id/btnSettings" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Denotify"
+        android:id="@+id/btnRemove"
+        android:onClick="removeNotification"
+
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/btnSettings"
+        android:layout_toEndOf="@+id/btnSettings" />
+
+
 </RelativeLayout>
